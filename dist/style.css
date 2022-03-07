@@ -1,0 +1,13 @@
+body{
+    padding: 2rem 0rem;
+    background-color: rgb(7, 119, 163);
+  }
+  
+  h1{
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+  }
+  p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
