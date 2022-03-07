@@ -32,13 +32,14 @@ THEN I exit the application, and the HTML is generated
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-![Screenshot (11)](https://user-images.githubusercontent.com/94930434/157035194-3d60b62f-b157-4340-a71c-5ee633f06a1c.png)
+![Screenshot 2022-03-07 at 16 06 34](https://user-images.githubusercontent.com/94930434/157071957-ab02935b-37f9-4058-8085-329e403d7e15.png)
+
 
 
 # VIDEO
 Video Link shows the command line question and answers.
 
-https://www.youtube.com/watch?v=9K0TQXMakuw&feature=youtu.be
+https://youtu.be/T14uaw2L_GQ
 
 # Contace Me.
 
